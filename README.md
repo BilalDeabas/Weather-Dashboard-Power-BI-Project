@@ -114,11 +114,13 @@ Stored in a dedicated `_Measures` table, including:
 ## 📸 Screenshots
 
 ```
-/assets/
-  weather-dashboard-main.png
-  forecast-panel.png
-  air-quality-dashboard.png
-  sunrise-sunset.png
+/imgs/
+  Dashboard.png
+  Forecast.png
+  AirQuality.png
+  Sunset & Sunrise.png
+  Details.png
+  ChanceofRain.png
 ```
 
 ---
