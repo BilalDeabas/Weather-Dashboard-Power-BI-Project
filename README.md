@@ -113,15 +113,24 @@ Stored in a dedicated `_Measures` table, including:
 
 ## 📸 Screenshots
 
-```
-/imgs/
-  Dashboard.png
-  Forecast.png
-  AirQuality.png
-  Sunset & Sunrise.png
-  Details.png
-  ChanceofRain.png
-```
+### 🌐 Dashboard Overview
+![Dashboard](imgs/Dashboard.png)
+
+### 📈 Forecast Panel
+![Forecast](imgs/Forecast.png)
+
+### 🧪 Air Quality
+![Air Quality](imgs/AirQuality.png)
+
+### 🌄 Sunrise & Sunset
+![Sunrise & Sunset](imgs/Sunset_Sunrise.png)
+
+### 📊 Detailed Metrics
+![Details](imgs/Details.png)
+
+### 🌧️ Rain Probability
+![Chance of Rain](imgs/ChanceofRain.png)
+
 
 ---
 ## 🚀 Getting Started
